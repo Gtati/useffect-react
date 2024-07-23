@@ -1,0 +1,24 @@
+.container-active{
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    padding-top: 4rem;
+}
+
+.title-active{
+    padding-bottom: 1rem;
+    font-size: 2rem;
+}
+
+.label1{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.input1{
+    width: 6rem;
+    height: 1rem;
+}
+.p-active{
+    padding-top: 1rem;
+}

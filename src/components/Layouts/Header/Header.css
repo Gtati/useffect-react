@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    width: 100vw;
+    height: 8rem;
+    background-color: rgb(198, 164, 226);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+

@@ -1,0 +1,18 @@
+.card{
+display: flex;
+flex-direction: column;    
+justify-content: center;
+align-items: center;
+padding-top: 4rem;
+}
+.title-count{
+    padding-bottom: 1rem;
+    font-size: 2rem;
+}
+.btn-count{
+    height: 2rem;
+    width: 5rem;
+    background-color: rgb(198, 164, 226);
+    cursor: pointer;
+    border: 2px double black;
+}
